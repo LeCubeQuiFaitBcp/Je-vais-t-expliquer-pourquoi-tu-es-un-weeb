@@ -3,14 +3,14 @@
 <html>
     <head>
         3 reason de pourquoi t'es un weeb
-    <style>
-        body {
-         color: red;
-         text-decoration: underline;
-         font-size: 42px;
+        <style>
+           body {
+             color: blue;
+             text-decoration: underline;
+             font-size: 42px;
            }
-     </style>
-    </head>
+        </style>
+   </head>
     </body>
         <p>Certaines personnes ont besoins qu'on leurs dise qui ils sont réelement,après avoir suivi ce guide, si tu remplis les critères, tu feras officilement partis des weeb refoulé.!</p>
           <p>Critère numéro 1 : Tu regardes des animes élitistes regardé par seulement 1% de la planète weeb, exemple : LAIN ou PAPRIKA. </p>
