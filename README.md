@@ -1,8 +1,7 @@
 
-<!DOCTYPE html>
 <html>
     <head> 3 reason de pourquoi t'es un weeb </head>
-    </body>
+    <body>
         <p>Certaines personnes ont besoins qu'on leurs dise qui ils sont réelement,après avoir suivi ce guide, si tu remplis les critères, tu feras officilement partis des weeb refoulé.!</p>
           <p>Critère numéro 1 : Tu regardes des animes élitistes regardé par seulement 1% de la planète weeb, exemple : LAIN ou PAPRIKA. </p> <img src="https://smilesnewsandreviews.files.wordpress.com/2015/10/lain-is-a-bear.jpg"/>
         <p>Critère numéro 2 : Tu joues à des jeux de rythmes du type OSU.</p>
