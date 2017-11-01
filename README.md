@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> 3 reason de pourquoi t'es un weeb :</title>
+        3 reason de pourquoi t'es un weeb
         <style>
            body {
              color: red;
