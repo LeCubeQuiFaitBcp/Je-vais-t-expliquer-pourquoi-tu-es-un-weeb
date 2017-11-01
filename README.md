@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        3 reason de pourquoi t'es un weeb
+        "3 reason de pourquoi t'es un weeb"
         <style>
            body {
              color: blue;
              text-decoration: underline;
              font-size: 42px;
            }
-        </style>
+         </style>
    </head>
     </body>
         <p>Certaines personnes ont besoins qu'on leurs dise qui ils sont réelement,après avoir suivi ce guide, si tu remplis les critères, tu feras officilement partis des weeb refoulé.!</p>
