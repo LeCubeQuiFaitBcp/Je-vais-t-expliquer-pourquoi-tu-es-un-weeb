@@ -5,9 +5,7 @@
         3 reason de pourquoi t'es un weeb
         <style>
         body {
-         color: red;
-         text-decoration: underline;
-         font-size: 42px;
+        
            }
          </style>
     </head>
